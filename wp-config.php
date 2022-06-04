@@ -26,7 +26,7 @@ define( 'DB_NAME', 'wordpress' );
 define( 'DB_USER', 'wordpress' );
 
 /** Пароль к базе данных */
-define( 'DB_PASSWORD', '28webArt97!' );
+define( 'DB_PASSWORD', '28webArt97@' );
 
 /** Имя сервера базы данных */
 define( 'DB_HOST', '192.168.0.103' );
